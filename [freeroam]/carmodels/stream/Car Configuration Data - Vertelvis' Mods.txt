@@ -1,0 +1,206 @@
+Mini Cooper S
+-------------
+Model=0xEB70965F
+Brackets=7
+OffsetY=-1.698
+OffsetZ=-0.025
+OffsetR=0
+Description=Mini Cooper S
+
+Mini Cooper S - Light Tuned
+---------------------------
+Model=0x7836CE2F
+Brackets=7
+OffsetY=-1.708
+OffsetZ=-0.042
+OffsetR=0
+Description=Mini Cooper S - Light Tuned
+
+GMC Typhoon
+-----------
+Model=0x52DB01E0
+Brackets=2
+OffsetY=-2.03
+OffsetZ=0.2
+OffsetR=0
+Description=GMC Typhoon
+
+Saleen S281
+-----------
+Model=0x9B909C94
+Brackets=3
+OffsetY=-1.96
+OffsetZ=0.043
+OffsetR=-0.008
+Description=Saleen S281 Extreme
+
+Saleen S281 Unmarked Police Car
+-------------------------------
+Model=0x432EA949
+Brackets=3
+OffsetY=-1.96
+OffsetZ=0.043
+OffsetR=-0.008
+Description=Saleen S281 Extreme Unmarked Police Car
+
+Audi Q7 V12 TDI
+---------------
+Model=0x4BA4E8DC
+Brackets=3
+OffsetY=-2.09
+OffsetZ=0.16
+OffsetR=0.013
+Description=Audi Q7 V12 TDI
+
+BMW X5 xDrive30i
+----------------
+Model=0x04F48FC4
+Brackets=3
+OffsetY=-2.102
+OffsetZ=0.182
+OffsetR=-0.011
+Description=BMW X5 xDrive30i
+
+BMW X5 xDrive30i - Alternate Rims
+---------------------------------
+Model=0x737DAEC2
+Brackets=3
+OffsetY=-2.102
+OffsetZ=0.182
+OffsetR=-0.011
+Description=BMW X5 xDrive30i
+
+BMW X5 xDrive30i - Light Tuned
+------------------------------
+Model=0x34B7390F
+Brackets=3
+OffsetY=-2.096
+OffsetZ=0.185
+OffsetR=-0.013
+Description=BMW X5 xDrive30i - Light Tuned
+
+BMW X5 xDrive35d
+----------------
+Model=0x50249008
+Brackets=3
+OffsetY=-2.102
+OffsetZ=0.182
+OffsetR=-0.011
+Description=BMW X5 xDrive35d
+
+BMW X5 xDrive35d - Alternate Rims
+---------------------------------
+Model=0x69F06B57
+Brackets=3
+OffsetY=-2.102
+OffsetZ=0.182
+OffsetR=-0.011
+Description=BMW X5 xDrive35d
+
+BMW X5 xDrive35d - Light Tuned
+------------------------------
+Model=0xA1363020
+Brackets=3
+OffsetY=-2.096
+OffsetZ=0.185
+OffsetR=-0.013
+Description=BMW X5 xDrive35d - Light Tuned
+
+BMW X5 xDrive48i
+----------------
+Model=0x84282613
+Brackets=3
+OffsetY=-2.102
+OffsetZ=0.182
+OffsetR=-0.011
+Description=BMW X5 xDrive48i
+
+BMW X5 xDrive48i Security Plus
+------------------------------
+Model=0xEB221FC2
+Brackets=3
+OffsetY=-2.102
+OffsetZ=0.182
+OffsetR=-0.011
+Description=BMW X5 xDrive48i Security Plus
+
+Mercedes-Benz Sprinter 2500
+---------------------------
+Model=0xCFB3870C
+Brackets=4
+OffsetY=-2.908
+OffsetZ=0.736
+OffsetR=0.016
+Description=Mercedes-Benz Sprinter 2500
+
+Mercedes-Benz Sprinter 2500 Delivery Van
+----------------------------------------
+Model=0xF8DE29A8
+Brackets=4
+OffsetY=-2.908
+OffsetZ=0.736
+OffsetR=0.016
+Description=Mercedes-Benz Sprinter 2500 Delivery Van
+
+Mercedes-Benz Sprinter 2500 Prisoner Transport
+----------------------------------------------
+Model=0x8EB78F5A
+Brackets=4
+OffsetY=-2.908
+OffsetZ=0.736
+OffsetR=0.016
+Description=Mercedes-Benz Sprinter 2500 Prisoner Transport
+
+Mercedes-Benz Sprinter 2500 Emergency Service
+---------------------------------------------
+Model=0x71EF6313
+Brackets=4
+OffsetY=-2.901
+OffsetZ=0.805
+OffsetR=0.005
+Description=Mercedes-Benz Sprinter 2500 Emergency Service
+
+Ford Country Squire
+-------------------
+Model=0x66B4FC45
+Brackets=2
+OffsetY=-2.344
+OffsetZ=0.09299999
+OffsetR=0.007
+Description=Ford Country Squire
+
+Ford Country Squire - Tuned
+---------------------------
+Model=0x09B56631
+Brackets=2
+OffsetY=-2.348
+OffsetZ=0.07600001
+OffsetR=0.003999999
+Description=Ford Country Squire - Tuned
+
+Range Rover Supercharged
+-----------------------------------
+Model=0x1D06D681
+Brackets=3
+OffsetY=-2.143
+OffsetZ=0.186
+OffsetR=0.007
+Description=Range Rover Supercharged
+
+Range Rover TDV8 Vogue
+-----------------------------------
+Model=0x779F23AA
+Brackets=3
+OffsetY=-2.143
+OffsetZ=0.186
+OffsetR=0.007
+Description=Range Rover TDV8 Vogue
+
+Lexus GS300h
+------------
+Model=0x3A196CEA
+Brackets=3
+OffsetY=-2.096
+OffsetZ=-0.016
+OffsetR=0.004
+Description=Lexus GS300h
