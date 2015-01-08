@@ -12,7 +12,7 @@ CreateThread(function()
 			
 		
 		
-			DrawCurvedWindow(0.32,0.045,0.32,0.06,255)
+			DrawCurvedWindow(0.32,0.050,0.32,0.06,255)
 			displaytext(0.33,0.050,"X: " ..possave[1]..  '',  255, 255, 255, 255) 
 			displaytext(0.33,0.070,"Y: " ..possave[2]..  '',  255, 255, 255, 255) 
 			displaytext(0.33,0.090,"Z: " ..possave[3]..  '',  255, 255, 255, 255) 

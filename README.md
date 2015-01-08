@@ -16,6 +16,13 @@ lastly, add these lines to your citmp-server.yml file
     - carmodels
     - saveload
 ```
+for saveload to work properly, comment out the "- spawnmanager" line in your citmp-server.yml file.
+
+```
+
+	#- spawnmanager
+	
+```
 ## Descriptions:
 
 ### Player List (v1.1) 
